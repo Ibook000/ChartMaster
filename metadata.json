@@ -1,0 +1,5 @@
+{
+  "name": "ChartMaster AI",
+  "description": "Transforms natural language into professional diagrams using Gemini and Mermaid.js.",
+  "requestFramePermissions": []
+}
